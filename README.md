@@ -4,5 +4,3 @@
 - React app
 - Dark mode
 - Sass
-- Design system
-- Documentation
