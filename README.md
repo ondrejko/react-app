@@ -1,8 +1,18 @@
 ## TODOLIST
+- custom CSS Reset
+- Separating CSS files
+- HASH on link when CSS is load
+- Automatic responsive typography
+- Accesibility
+- Page Speed Load 100%
+- HTML Semantics
+- Variable fonts
+- Dynamic design
 - CSS Custom properties
 - CSS Grid
-- React app
+- React app (?)
 - Dark mode
-- Sass
-- Design system
-- Documentation
+- BEM
+- Design foundations in Figma
+- Pure JavaScript
+- Používat [] u názvů tříd
