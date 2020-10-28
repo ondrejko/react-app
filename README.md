@@ -1,6 +1,16 @@
 ## TODOLIST
+- Separating CSS files
+- HASH on link with CSS import
+- Automatic responsive typography
+- Accesibility
+- Page Speed Load 100%
+- HTML Semantics
+- Variable fonts
+- Dynamic design
 - CSS Custom properties
 - CSS Grid
 - React app
+- BEM
+- Using [] in HTML
 - Dark mode
 - Sass
