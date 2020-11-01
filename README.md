@@ -1,18 +1,1 @@
-## TODOLIST
-- Separating CSS files
-- HASH on link when CSS is load
-- Separating CSS files
-- HASH on link with CSS import
-- Automatic responsive typography
-- Accesibility
-- Page Speed Load 100%
-- HTML Semantics
-- Variable fonts
-- Dynamic design
-- CSS Custom properties
-- CSS Grid
-- BEM
-- React app
-- BEM
-- Using [] in HTML
-- Dark mode
+## React app
